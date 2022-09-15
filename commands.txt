@@ -1,0 +1,5 @@
+git clone https://github.com/thejiyoungsong/GitHub-Collaboration-Practice.git
+git checkout -b "Caitlin"
+cd /c/Users/caitl/Documents/Computational-Social-Science-Projects/Project1/GitHub-Collaboration-Practice/
+nano "Team 6"
+nano commands.txt
