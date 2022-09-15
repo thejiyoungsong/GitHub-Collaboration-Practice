@@ -1,7 +1,7 @@
 git clone 
 https://github.com/thejiyoungsong/GitHub-Collaboration-Practice.git
-git checkout -b jiyoung_branch
 cd GitHub-Collaboration-Practice
+git checkout -b jiyoung_branch
 nano "Team 6"
 touch commands.md
 nano commands.md
