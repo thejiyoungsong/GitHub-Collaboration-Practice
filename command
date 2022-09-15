@@ -1,6 +1,7 @@
+
 git clone https://github.com/thejiyoungsong/GitHub-Collaboration-Practice.git
-git checkout -b kamal_branch
 cd GitHub-Collaboration-Practice
+git checkout -b kamal_branch
 nano "Team 6"
 touch command
 nano command
