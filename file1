@@ -1,0 +1,12 @@
+git clone https://github.com/thejiyoungsong/GitHub-Collaboration-Practice.git
+git checkout -b cmisunas
+cd GitHub-Collaboration-Practice
+nano "Team 6" 
+touch file1.md
+nano file1.md
+git add *
+git commit -m "My commands"
+git push -u origin
+
+
+
