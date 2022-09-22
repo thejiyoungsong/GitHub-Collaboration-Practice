@@ -7,4 +7,4 @@ touch command
 nano command
 git add *
 git commit -m "Kamals Commands"
-git push -u origin kamal_branch
+git push -u origin 
